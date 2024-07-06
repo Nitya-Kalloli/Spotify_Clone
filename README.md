@@ -20,7 +20,7 @@ This is a web-based music player clone  inspired by Spotify. The application inc
 
 1. Clone the repository:
   
-   git clone https://github.com/Nitya-Kalloli/
+   git clone https://github.com/Nitya-Kalloli/Spotify_Clone.git
 
 2. Navigate to the project directory:
 
