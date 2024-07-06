@@ -26,28 +26,6 @@ This is a web-based music player clone  inspired by Spotify. The application inc
 
    cd SPOTIFY
 
-## Folder Structure
-SPOTIFY/
-├── assets/
-│   ├── logo.png
-│   ├── library_icon.png
-│   ├── card1img.jpeg
-│   ├── card2img.jpeg
-│   ├── card12img.jpeg.png
-│   ├── card13img.jpeg.png
-│   ├── card14img.jpeg.png
-│   ├── card3img.jpeg
-│   ├── card5img.jpeg
-│   ├── card6img.jpeg
-│   ├── player_icon1.png
-│   ├── player_icon2.png
-│   ├── player_icon3.png
-│   ├── player_icon4.png
-│   ├── player_icon5.png
-│   ├── backward_icon.png
-│   ├── forward_icon.png
-├── style.css
-├── index.html
 
 
 ## Contributing
