@@ -57,3 +57,4 @@ Contributions are welcome! Feel free to open an issue or submit a pull request f
 If you have any feedback, please reach out to me at nityakalloli.dev@gmail.com
 
 Enjoy the musical journey on the Spotify Clone! 🎶
+# Spotify_Clone
